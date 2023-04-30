@@ -1,6 +1,6 @@
 # Course Project1: Machine Learning Algorithm for Disease Classification
 
-This repository contains my submission to MA-204(SML) course project-1.
+This is my submission to MA-204(SML) course project-1.
 
 ## Problem
 
